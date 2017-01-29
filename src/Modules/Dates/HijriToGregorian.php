@@ -1,5 +1,5 @@
 <?PHP
-namespace Reyzeal\HijriTimeBot\Modules;
+namespace Reyzeal\HijriDate\Modules;
 
 class HijriToGregorian extends Dates{
 	protected $module='hToG?date=';

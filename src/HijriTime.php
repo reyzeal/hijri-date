@@ -1,9 +1,9 @@
 <?PHP
-namespace Reyzeal\HijriTimeBot;
-use Reyzeal\HijriTimeBot\Modules\GregorianToHijri as GtoH;
-use Reyzeal\HijriTimeBot\Modules\HijriToGregorian as HtoG;
-use Reyzeal\HijriTimeBot\Modules\Times;
-class HijriTime{
+namespace Reyzeal\HijriDate;
+use Reyzeal\HijriDate\Modules\GregorianToHijri as GtoH;
+use Reyzeal\HijriDate\Modules\HijriToGregorian as HtoG;
+use Reyzeal\HijriDate\Modules\Times;
+class Hijri{
 	/*
 	 * default timezone;
 	 */

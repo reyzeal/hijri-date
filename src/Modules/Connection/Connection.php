@@ -1,5 +1,5 @@
 <?PHP
-namespace Reyzeal\HijriTimeBot\Foundation;
+namespace Reyzeal\HijriDate\Foundation;
 class Connection {
 	private $base_url='http://api.aladhan.com/';
 	

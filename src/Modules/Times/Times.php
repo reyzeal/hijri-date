@@ -1,6 +1,6 @@
 <?PHP
-namespace Reyzeal\HijriTimeBot\Modules;
-use Reyzeal\HijriTimeBot\Foundation\Connection as Connection;
+namespace Reyzeal\HijriDate\Modules;
+use Reyzeal\HijriDate\Foundation\Connection as Connection;
 class Times extends Module{
 	protected $method='4';
 	protected $country='ID';
