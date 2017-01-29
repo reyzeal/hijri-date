@@ -1,0 +1,28 @@
+{
+    "name": "reyzeal/hijri-date",
+    "type": "library",
+    "description": "PHP Hijri Date and Time Prayer Converter",
+    "keywords": ["Hijri","Islam","Prayer","Time", "bot", "api"],
+    "license": "none",
+    "homepage": "https://github.com/reyzeal/hijri-date",
+    "support": {
+        "issues": "https://github.com/reyzeal/hijri-date/issues",
+        "source": "https://github.com/reyzeal/hijri-date"
+    },
+    "authors": [
+        {
+            "name": "Rizal Ardhi Rahmadani",
+            "email": "rizal.ardhi.rahmadani@gmail.com",
+            "homepage": "http://reyzeal.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "Reyzeal\\HijriDate\\": "src/"
+        }
+    },
+}
